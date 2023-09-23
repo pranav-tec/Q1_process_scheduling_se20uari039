@@ -81,7 +81,7 @@ def rr(processes, quantum):
     return waiting_time, turnaround_time
 
 # Process format: (process_id, arrival_time, burst_time, priority)
-processes = [(1, 0, 24, 3), (2, 4, 3, 1), (3, 5, 3, 12), (4, 2, 4, 4)]
+processes = [(1, 0, 24, 3), (2, 4, 3, 1), (3, 5, 3, 4), (4, 6, 12, 2)]
 
 print("FCFS:")
 fcfs_waiting_time, fcfs_turnaround_time = fcfs(processes)
