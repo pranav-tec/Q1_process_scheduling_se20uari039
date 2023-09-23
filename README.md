@@ -3,4 +3,5 @@ using python defined a code to fing average waiting time and turn around time fo
 
 #output for FCFS, SJF, PS and RR
 
-![process scheduling](https://github.com/pranav-tec/process_scheduling_analysis_se20uari039/assets/74977336/a5122690-1f58-4b9f-abe0-b4343ab85b9c)
+
+![process scheduling](https://github.com/pranav-tec/process_scheduling_se20uari039/assets/74977336/b87ca8df-d542-45c5-91ad-f6e6de34bb3f)
